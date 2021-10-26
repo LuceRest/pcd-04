@@ -16,7 +16,6 @@ for i in range(0, img.size[0]-1):
 img.show();
 
 
-
 '''
 # import Pillow modules
 
@@ -24,7 +23,7 @@ from PIL import Image
 from PIL import ImageFilter
 
 # Load the image
-img = Image.open("./fishcatch.jpg");
+img = Image.open("Res\car.jpg");
 
 # Display the original image
 img.show()
@@ -48,7 +47,6 @@ for i in range(0, img.size[0]-1):
 
 # Display the negative image
 img.show();
-
 
 
 '''
